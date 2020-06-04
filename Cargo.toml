@@ -3,6 +3,9 @@ name = "libXNVCtrl-sys"
 version = "0.1.0"
 authors = ["zee-mzha <zee.mzha@gmail.com>"]
 edition = "2018"
+description = "Rust bindings for Nvidia's XNVCtrl library"
+license = "GPL-2.0"
+license-file = "LICENSE.md"
 
 [build-dependencies]
 bindgen = "0.53.2"
