@@ -1,6 +1,6 @@
 [package]
 name = "libXNVCtrl-sys"
-version = "1.29.0"
+version = "1.29.1"
 authors = ["zee-mzha <zee.mzha@gmail.com>"]
 edition = "2018"
 description = "Rust bindings for Nvidia's XNVCtrl library"
